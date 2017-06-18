@@ -86,6 +86,13 @@ E.g.
 -> the position of the CVI electronics board
 ![Home Repair with no User or Repair manual - CVI of SeaDoo GTI Sea Scooter position of the board](/images/LocationOfCVI.jpg)
 
+As you can see, some water leaked inside and damaged the connectors. Unfortunately this was not the only issue. Even after proper cleaning did not work, so we proceeded the hack above.
+
+## Mounting it back:
+When putting it back, put lots of Silicon grease on all the o-rings, to ensure water won't leak in. Myself I did not find silicon grease, so I used Lithoshield LZ2​, which does attack the silicon o-rings, but for now it does the job :).
+Note: do not use the standard silicon tubes, those are glues that get hard in contact with air, and you won't be able to open it later on, should you need.
+
+## Conclusions:
 Cons:
 - with the original CVI board, the logic part ensured that the battery won't finish all of the sudden. It was stopping and afterwards working again, and so on, few times, in order to warn the user that the battery is very low. Now, there is no such warning. For me it's not an issue, I know that my battery lasts way longer than I am planning to use in that day. Additionally, for really serious people, buy Lithium based batteries.
 - the water sensors are disabled. But, I had them enabled and did not detect the water, and it damaged the connectors. So, aparently were not of that great use even before.
