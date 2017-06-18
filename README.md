@@ -33,11 +33,14 @@ Ensure you make the series/parallel arangement such that your voltage is within 
 
 ## Electronics board
 The measured current the GTI takes from the battery when running outside of water is 2A. Probably under water it's more.
-The original FET Transistor was a pretty weak one, and probably the board was using the chip on the board to open the transistor with a specific frequency, as opposed to always on (DC like).
+The original FET Transistor was a pretty weak one, and probably the board was using the chip on the board to open the transistor with a specific frequency, as opposed to always on (DC like).   
 This is probably the reason for which, when we used the original transistor continuously (DC), it burned after few minutes of work.
-We searched for better ones, same package: TO220:
+Original FET was: IRL3303 (30V/38A;0.026 ohm) : irf.com/product-info/datasheets/data/irl3303.pdf
+We searched for better ones, same package: TO220. Here are some examples:
 - IRFB3077P8F
 - PSMN1R8_30PL
 - AU IRFB8405
-- IRLB3034PBF (http://www.infineon.com/dgdl/irlb3034pbf.pdf?fileId=5546d462533600a40153566027b22585)
+- IRLB3034PBF
+
+We managed to find the IRLB3034PBF (40V/195A;0.0017 ohm - way much better than original by all means http://www.infineon.com/dgdl/irlb3034pbf.pdf?fileId=5546d462533600a40153566027b22585)
 
