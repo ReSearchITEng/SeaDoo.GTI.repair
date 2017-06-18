@@ -32,13 +32,16 @@ Ensure you make the series/parallel arangement such that your voltage is within 
 ## HOW TO OPEN
 Under the battery, there are 4+1 rubbers.
 The one with a whole in it, does not have any screw underneath, so you may want to leave it as is.
-Using a piercing tool, remove the 4 rubbers, and right after the screws under.
+Using a piercing tool, remove the 4 rubbers, and under you will find 4 screws (1-4), just like in the picture below. Unscrew them.
 
-Use two long enough 6mm with more fine threads (I guess Pitch 0.75mm) screws (there are 2 types of threads in 6mm screws, it's the fine one). Anyway, you try them, should enter easily if they fit.
-Screw them ~1cm to max 1.5cm - don't force them too deep, ensuring you won't damage the chasis below.
+![Open to access CVI electronics board - Screws](/images/GTI_howToOpenCVI_NumberedScrews.jpg)
+
+In order to lift up this plastic section, you have to screw two long enough enough screws. They should be 6mm with more fine threads (I guess Pitch 0.75mm). Note, there are 2 types of threads in 6mm screws, choose the fine one. Anyway, you try them, should enter easily if they fit.
+Screw them in wholes f6 f7 ~1cm to max 1.5cm deep - don't force them too deep, ensuring you won't damage the chasis below.
 Tie some ropes from both of them, and use a tool to ensure you lift from both sides, keeping the ropes parallel.
 
 Here is the tool I created:
+
 
 You will have to use quite some force pulling up, you may need someone to help you.
 
