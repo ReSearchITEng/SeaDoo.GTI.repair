@@ -70,12 +70,21 @@ I checked most of the obvious components (fet transistor, diodes, etc), but all 
 Here is a schematic that removes all the smart (but aparenlty unreliable) part of the board:
 ![simplified schematic of Sea Doo GTI Electronics CVI board](/images/schematic_simplified.jpg)   
 
+In violet is the transitor, in blue the motor (engine), in brown a protection agains spikes (the engine is a coil and doesn't like abrupt interruptions :) )
 The solution was to simplify the board drastically: disconnect the "smart" part, and keep the part that actually does the work.
 For this, we have cut the circuit in 2 places. The points can be seen both in the schematic above and in the picture below:
 
 ![Home Repair with no User or Repair manual - CVI of SeaDoo GTI Sea Scooter 2CircuitCuts](/images/HomeRepair_CVI_ofSeaDooGTI_Scooter_2CircuitCuts.jpg)
 
 The transistor will get commands from the relay of the right side. Note the two added resistors: Rnew1 (100k ohm) and Rnew2 (39k ohm).
+
+Other images you may want to see:
+E.g. 
+-> the position of the transitor on its radiator (it's the smaller one, in TO220)
+![Home Repair with no User or Repair manual - CVI of SeaDoo GTI Sea Scooter position of transistor on radiator](/images/positionOfTransitor.jpg)
+
+-> the position of the CVI electronics board
+![Home Repair with no User or Repair manual - CVI of SeaDoo GTI Sea Scooter position of the board](/images/LocationOfCVI.jpg)
 
 Cons:
 - with the original CVI board, the logic part ensured that the battery won't finish all of the sudden. It was stopping and afterwards working again, and so on, few times, in order to warn the user that the battery is very low. Now, there is no such warning. For me it's not an issue, I know that my battery lasts way longer than I am planning to use in that day. Additionally, for really serious people, buy Lithium based batteries.
