@@ -1,5 +1,5 @@
 # SeaDoo.GTI.repair
-How to choose/repair SeaDoo GTI Sea Scooter with no repair manual.
+How to choose/repair the electronics board (CVI) of non-working SeaDoo GTI Sea Scooter with no repair manual.
 
 CONS:
 - As one would expect, nobody gives any warranty or assumes any responsability for the results of these hacks. 
