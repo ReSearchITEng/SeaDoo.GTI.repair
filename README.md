@@ -30,8 +30,20 @@ Here are some options: https://www.aliexpress.com/popular/lifepo4-battery-12v.ht
 Ensure you make the series/parallel arangement such that your voltage is within a Pb battery (11.x - 13.y)
 
 ## HOW TO OPEN
+Under the battery, there are 4+1 rubbers.
+The one with a whole in it, does not have any screw underneath, so you may want to leave it as is.
+Using a piercing tool, remove the 4 rubbers, and right after the screws under.
 
-## Electronics board
+Use two long enough 6mm with more fine threads (I guess Pitch 0.75mm) screws (there are 2 types of threads in 6mm screws, it's the fine one). Anyway, you try them, should enter easily if they fit.
+Screw them ~1cm to max 1.5cm - don't force them too deep, ensuring you won't damage the chasis below.
+Tie some ropes from both of them, and use a tool to ensure you lift from both sides, keeping the ropes parallel.
+
+Here is the tool I created:
+
+You will have to use quite some force pulling up, you may need someone to help you.
+
+
+## Electronics board (CVI)
 The measured current the GTI takes from the battery when running outside of water is 2A. Probably under water it's more.
 The original FET Transistor was a pretty weak one, and probably the board was using the chip on the board to open the transistor with a specific frequency, as opposed to always on (DC like).   
 This is probably the reason for which, when we used the original transistor continuously (DC), it burned after few minutes of work.
