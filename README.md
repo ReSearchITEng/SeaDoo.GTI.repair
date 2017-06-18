@@ -1,5 +1,5 @@
 # SeaDoo.GTI.repair
-How to choose/repair the electronics board (CVI) of non-working SeaDoo GTI Sea Scooter with no repair manual.
+How to choose/repair the electronics PC Circuit board (CVI) of non-working SeaDoo GTI Sea Scooter with no repair manual.
 
 CONS:
 - As one would expect, nobody gives any warranty or assumes any responsability for the results of these hacks. 
@@ -36,11 +36,11 @@ After a full summer, it stopped working. I checked battery, etc. The contacts ar
 ## HOW TO OPEN
 Don't bother to look in the handlers, there is nothing there, the on/off switches are magnetic (as explained above).
 
-So, let's find the electronics board (CVI).   
+So, let's find the electronics PC Circuit board (CVI).   
 Under the battery, there are 4+1 rubbers. The one with a whole in it, does not have any screw underneath, so you may want to leave it as is.   
 Using a piercing tool, remove the 4 rubbers, and under you will find 4 screws (1-4), just like in the picture below. Unscrew them.
 
-![Open to access CVI electronics board - Screws](/images/GTI_howToOpenCVI_NumberedScrews.jpg)
+![Open to access CVI PC Circuit board electronics board - Screws](/images/GTI_howToOpenCVI_NumberedScrews.jpg)
 
 In order to lift up this plastic section, you have to screw two long enough enough screws. They should be 6mm with more fine threads (I guess Pitch 0.75mm). Note, there are 2 types of threads in 6mm screws, choose the fine one. Anyway, you try them, should enter easily if they fit.
 Screw them in wholes f6 f7 ~1cm deep - don't force them too deep, ensuring you won't damage the chasis below.
