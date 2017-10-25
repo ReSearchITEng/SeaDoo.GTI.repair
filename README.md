@@ -109,5 +109,5 @@ Pros:
 - https://www.aliexpress.com/item/Free-Shipping-300W-sea-scooter-parts-Dual-Speed-Water-propeller-Diving-Under-Water-Scooter-electromotor/32705563155.html (engine from china, 25$ - probably not original )
 - https://www.aliexpress.com/item/Free-Shipping-300W-sea-scooter-parts-Dual-Speed-Water-propeller-Diving-Under-Water-Scooter-management-board/32705551622.html (board from china, 35$ - probably not original)
 - https://scootermotion.com/shop/seascooter-parts/sea-doo-seascooter-gti-inner-nose-cone-o-rings/
-- McMaster-Carr for orings ( manually check for sizes)
+- McMaster-Carr for orings ( manually check for sizes), something like: https://www.mcmaster.com/#9557k339/=19yx23f (but not tested)
 - https://www.ebay.com/itm/331547247084 (silicon grease, 6$ 25gr/0,88 oz )
