@@ -111,5 +111,5 @@ Pros:
 - https://scootermotion.com/shop/seascooter-parts/sea-doo-seascooter-gti-inner-nose-cone-o-rings/
 - https://www.ebay.com/itm/331547247084 (silicon grease, 6$ 25gr/0,88 oz )
 - McMaster-Carr for orings ( manually check for sizes), something like:
-  - https://www.mcmaster.com/#9262k835/=19yx7sx - Oil-Resistant (and Water) Buna-N O-Ring: 4 mm Wide, 160 mm ID (but not tested)
+  - https://www.mcmaster.com/#9262k835/=19yx7sx - Oil-Resistant (and Water) Buna-N O-Ring: 4 mm Wide, 160 mm ID; 10$/5 pcs (but not tested)
 
